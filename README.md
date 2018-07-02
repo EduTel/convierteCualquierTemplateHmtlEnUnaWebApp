@@ -14,25 +14,25 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).  
 
 # Comandos a usar  
-***3. Opcional - Configurar GIT*** 
-git --version
-git config --global user.name "eduardo"
-git config --global user.email "eduardo@"
-git config --global alias.lg "log --oneline --decorate --all --graph"
-git config --global alias.s "status -s"
-git checkout  -- .
+***3. Opcional - Configurar GIT***  
+* git --version  
+* git config --global user.name "eduardo"  
+* git config --global user.email "eduardo@"  
+* git config --global alias.lg "log --oneline --decorate --all --graph"  
+* git config --global alias.s "status -s"  
+* git checkout  -- .  
 
 ***10. Estructura HTML básica a nuestro proyecto de Angular***
-ng serve -o
-ng g c components/header
-ng g c components/foother -is
-g g c components/portafolio --spec false -is
+* ng serve -o  
+* ng g c components/header  
+* ng g c components/foother -is  
+* g g c components/portafolio --spec false -is  
 
-ng generate module app-routing --flat --module=app
+ng generate module app-routing --flat --module=app  
 
-***URL***
-https://angular.io/guide/ngmodules
-https://angular.io/guide/router
+***URL***  
+https://angular.io/guide/ngmodules  
+https://angular.io/guide/router  
 
 
 

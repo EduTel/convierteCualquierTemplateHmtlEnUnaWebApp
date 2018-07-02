@@ -28,11 +28,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * ng g c components/foother -is  
 * g g c components/portafolio --spec false -is  
 
-ng generate module app-routing --flat --module=app  
-
 ***URL***  
 https://angular.io/guide/ngmodules  
 https://angular.io/guide/router  
+
+***Information***
+* ng generate module app-routing --flat --module=app  
 
 
 

@@ -26,5 +26,7 @@ git config --global alias.s "status -s"
 ng serve -o
 ng g c components/header
 ng g c components/foother -is
+g g c components/portafolio --spec false -is
+
 
 

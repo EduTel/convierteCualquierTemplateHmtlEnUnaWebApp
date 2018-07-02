@@ -11,4 +11,4 @@ const appRoutes: Routes = [
   { path: 'portfolioitem', component: PortfolioItemComponent },
   { path: '**',redirectTo: '',pathMatch: 'full'}
 ];
-export const app_routing = RouterModule.forRoot(appRoutes);
+export const app_routing = RouterModule.forRoot(appRoutes,{useHash:true});

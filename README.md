@@ -20,13 +20,12 @@ git config --global user.name "eduardo"
 git config --global user.email "eduardo@"
 git config --global alias.lg "log --oneline --decorate --all --graph"
 git config --global alias.s "status -s"
-
+git checkout  -- .
 
 ***10. Estructura HTML básica a nuestro proyecto de Angular***
 ng serve -o
 ng g c components/header
 ng g c components/foother -is
 g g c components/portafolio --spec false -is
-
 
 

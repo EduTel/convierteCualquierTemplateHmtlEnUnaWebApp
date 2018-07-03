@@ -1,0 +1,10 @@
+{
+  "titulo"      : "template angular",
+  "email"       : "email_test@outlook.com",
+  "nombre_corto": "Eduardo",
+  "pagina_autor": "https: //codepen.io/EduTel/",
+  "Facebook"    : "https://www.facebook.com/",
+  "twitter"     : "https://twitter.com/?lang=es",
+  "Instagram"   : "https://www.instagram.com/",
+  "equipo_trabajo": []
+}

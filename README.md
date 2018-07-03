@@ -21,6 +21,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * git config --global alias.lg "log --oneline --decorate --all --graph"  
 * git config --global alias.s "status -s"  
 * git checkout  -- .  
+* ng g s services/informacion 
 
 ***10. Estructura HTML básica a nuestro proyecto de Angular***
 * ng serve -o  
